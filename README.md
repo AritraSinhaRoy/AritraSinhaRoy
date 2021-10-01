@@ -20,7 +20,7 @@ I AM ARITRA SINHA ROY
 
 
 
-<img scr=""/>
+<img scr="https://github.com/AritraSinhaRoy/AritraSinhaRoy-project-day-3/blob/main/017.jpg"/>
 
 
 
