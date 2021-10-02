@@ -1,4 +1,4 @@
-# ARITRA SINHA ROY 👋
+# INTRODUCTION 👋
 I AM ARITRA SINHA ROY
 
 ## BASIC DETAIL 🚀
@@ -8,10 +8,10 @@ I AM ARITRA SINHA ROY
 
 <img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
 
-## COLLEGE DETAILS 
+## COLLEGE DETAILS 🏭🏭
 **COLLEGE CITY** - *KOLKATA RUBY*
 
-## MY SKILLS
+## MY SKILLS 🌐
 | SL.NO | SKILLS |
 | ------| ------ |
 | 1 | JAVA|
