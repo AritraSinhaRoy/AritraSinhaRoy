@@ -28,7 +28,7 @@ I'm [ARITRA SINHA ROY](https://github.com/AritraSinhaRoy), I'm an Information Te
 
 <p align="center">
   
-  <img src="https://github.com/AritraSinhaRoy/AritraSinhaRoy/blob/main/skills%201.0.PNG_height=32">
+  <img src="https://github.com/AritraSinhaRoy/AritraSinhaRoy/blob/main/skills%201.0.PNG">
 
  
 
