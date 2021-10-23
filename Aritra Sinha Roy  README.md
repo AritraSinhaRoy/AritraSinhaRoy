@@ -1,5 +1,4 @@
-# INTRODUCTION 👋
-I AM ARITRA SINHA ROY
+<h4> Hey there! <img src="https://github.com/AritraSinhaRoy/AritraSinhaRoy/blob/main/wave.gif" width="30px"></h4>
 
 ## BASIC DETAIL 🚀
 **NAME** - *ARITRA SINHA ROY* 
