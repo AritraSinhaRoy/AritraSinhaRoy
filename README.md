@@ -35,19 +35,19 @@ I'm [ARITRA SINHA ROY](https://github.com/AritraSinhaRoy), I'm an Information Te
 
  
 
-## COURSES
+## COURSES 📝
 1. COURSERA
 2. UDEMY
 3. UNACADEMY
 4. GRADAPP
 
-## LANGUAGES 
+## LANGUAGES 📔
 * ENGLISH
 * BENGALI
 * HINDI
 
-## LINKS 
-[CLICK ON HERE](facebook.com/aritra.sinharoy.96)
+## LINKS 📲
+[Face Book](facebook.com/aritra.sinharoy.96)
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
