@@ -27,7 +27,7 @@ I'm [ARITRA SINHA ROY](https://github.com/AritraSinhaRoy), I'm an Information Te
 <img scr="https://github.com/AritraSinhaRoy/AritraSinhaRoy-project-day-3/blob/main/017.jpg"/>
 
 
-**Github Stats:**
+**Github Stats:** -------------------------------------------- ⏬
 
 <p align="center">
   
