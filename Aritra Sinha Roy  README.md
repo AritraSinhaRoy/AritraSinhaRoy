@@ -24,7 +24,13 @@ I'm [ARITRA SINHA ROY](https://github.com/AritraSinhaRoy), I'm an Information Te
 <img scr="https://github.com/AritraSinhaRoy/AritraSinhaRoy-project-day-3/blob/main/017.jpg"/>
 
 
+**Github Stats:**
 
+<p align="center">
+  
+  <img src="https://github.com/AritraSinhaRoy/AritraSinhaRoy/blob/main/skills%201.0.PNG_height=32">
+
+ 
 
 ## COURSES
 1. COURSERA
