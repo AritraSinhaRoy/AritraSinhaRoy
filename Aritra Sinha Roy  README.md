@@ -1,4 +1,6 @@
 <h2> Hey there! <img src="https://github.com/AritraSinhaRoy/AritraSinhaRoy/blob/main/wave.gif" width="30px"></h4>
+I'm [ARITRA SINHA ROY](https://github.com/AritraSinhaRoy), I'm an Information Technology Student , initially doing my BTech from Meghnad Saha Institute Of Technology.
+
 
 ## BASIC DETAIL 🚀
 **NAME** - *ARITRA SINHA ROY* 
