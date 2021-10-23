@@ -49,7 +49,7 @@ I'm [ARITRA SINHA ROY](https://github.com/AritraSinhaRoy), I'm an Information Te
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
+    ⭐️ From [Aritra Sinha Roy](https://github.com/AritraSinhaRoy)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
